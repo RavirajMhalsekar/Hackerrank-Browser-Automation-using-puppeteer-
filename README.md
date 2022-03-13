@@ -21,6 +21,4 @@ npm i puppeteer
 ```
 ## Demo
 
-Insert gif or link to demo
-
 https://user-images.githubusercontent.com/71785923/158047365-a866052c-478b-4eab-9145-b96d4585d83c.mp4
